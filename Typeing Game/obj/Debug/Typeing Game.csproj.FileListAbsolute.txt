@@ -1,0 +1,10 @@
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\bin\Debug\Typeing Game.exe.config
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\bin\Debug\Typeing Game.exe
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\bin\Debug\Typeing Game.pdb
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing Game.csprojResolveAssemblyReference.cache
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing_Game.Form1.resources
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing_Game.Properties.Resources.resources
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing Game.csproj.GenerateResource.cache
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing Game.csproj.CoreCompileInputs.cache
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing Game.exe
+C:\Users\Takahiro Yasuda\source\repos\Typeing Game\Typeing Game\obj\Debug\Typeing Game.pdb
